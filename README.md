@@ -5,7 +5,7 @@
 ## Objectives
 1. Gain proficiency instantiating a class
 2. Gain ability to discern when to implement `attr_accessor`, `attr_reader`,  and `attr_writer`
-3. Gain abiity to discern when to define your own `attr_reader`(getter) and `attr_writer`(setter) methods
+3. Gain ability to discern when to define your own `attr_reader`(getter) and `attr_writer`(setter) methods
 
 ## Introduction
 To practice object oriented programming (OOP), you're going to create a Person class. Each instance of the `Person` class will have the ablity to:
