@@ -87,5 +87,5 @@ class Person
       @happiness = happiness
       return "blah blah blah blah blah"
     end
-  end
+  end  
 end
